@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{9A269BDB-13A5-16BF-4C57-143425A0E98D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
     <Files>
       <File FileName="Library/PackageCache/com.unity.timeline@1.2.6/Editor/Actions/ClipsActions.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="24" Column="39" />
+      <File FileName="Assets/Scripts/Ship.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +12,7 @@
           <Node name="SkyRoads" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="UIManager.cs" selected="True" />
+                <Node name="GameController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
